@@ -123,5 +123,8 @@ to learn and apply new information quickly, will ensure that i rapidly become a 
  I helped by fixing
 
  # conflict situation with a coworker or with peer
- * i always tries to avoid conflict situations am a person of poeples first i think when we respect others opinions we will have less conflict or no conflict situations. sometimes its very hard to handle conflict situtions in that case i always reachout to my superior but i never face unresolved conflict.
- i had a small conflict in my current work job in the monthly meeting during the second phase of pandemanic some changes made for the safety. but i observed that one of the peer is not happy with my idea. i did not point out at that time i had a conversion and explained my point of view.
+ * i always tries to avoid conflict situations am a person of poeples first .
+ * i think when we respect others opinions we will have less conflict or no conflict situations. sometimes its very hard to handle conflict situtions in that case i always reachout to my superior but i never face unresolved conflict.
+ i had a small conflict in my current work job in the monthly meeting during the second phase of pandemanic some changes made for the safety.
+ but i observed that one of the peer is not happy with my idea. 
+ i did not point out at that time i had a conversion and explained my point of view.
