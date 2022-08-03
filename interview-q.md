@@ -4,7 +4,7 @@
 
 
    HI 
-    * This is uma vishalakshi ,currently working in Good Start Early learning as a child care educator and also in support some of the supporting operations with in the business.
+    * This is uma vishalakshi ,currently working in Good Start Early learning as a child care educator and also in support some of the supporting        operations with in the business.
     * e.g Invoices creation for clients
     * Setting up their CCS for Clients (Explaining the details of the Fees and needs of the how they need to apply with the centre link)
     * Incident Management ( incident reporting to client if there was any ,documenting them in the XAPP Application)
